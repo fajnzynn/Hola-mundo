@@ -1,2 +1,3 @@
-# Hola-mundo
-Repositorio de inicio en GitHub
+Bienvenidos a mi repositorio "Hola-mundo" 
+
+Por el momento no tengo mucho para mostrar, pero voy a estar trabajando para compartir mis proyectos en GitHub.
